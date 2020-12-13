@@ -2,6 +2,10 @@
 #'
 #' @format 264 x 64 dataframe
 #'
+#'\describe{
+#'\item{index}{country Names}
+#'\item{column1}{literacy rates}
+#'}
 #'
 #'
 "HealthData"
