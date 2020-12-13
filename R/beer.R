@@ -1,11 +1,11 @@
-#' Monthly beer production in australia
+#' Monthly beer production in Australia
 #'
 #' @format 477 x 2 dataframe
 #'
-#'\describe{
-#'\item{column1}{Date}
-#'\item{column2}{Monthly beer production}
-#'}
+#' \describe{
+#' \item{column1}{Data}
+#' \item{column2}{prodution}
+#' }
 #'
 "beer"
 beer = read.csv("monthly-beer-production-in-austr.csv")

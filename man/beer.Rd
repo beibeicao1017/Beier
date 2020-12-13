@@ -3,19 +3,19 @@
 \docType{data}
 \name{beer}
 \alias{beer}
-\title{Monthly beer production in australia}
+\title{Monthly beer production in Australia}
 \format{
 477 x 2 dataframe
 
 \describe{
-\item{column1}{Date}
-\item{column2}{Monthly beer production}
+\item{column1}{Data}
+\item{column2}{prodution}
 }
 }
 \usage{
 beer
 }
 \description{
-Monthly beer production in australia
+Monthly beer production in Australia
 }
 \keyword{datasets}
